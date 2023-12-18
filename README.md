@@ -7,7 +7,7 @@ Welcome to the JavaScript Beginner Exercises repository! 🎉 This collection is
 ### Table of Contents 📚
 
 1. [Variables and Data Types](/ENG_variables_and_data_types.js)
-2. [Logical Operators and Comparisons](/logical_operators_and_comparisons.js)
+2. [Logical Operators and Comparisons](/ENG_logical_operators_and_comparisons.js)
 
 ## Exercise File 📂
 
