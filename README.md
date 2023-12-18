@@ -11,13 +11,11 @@ Welcome to the JavaScript Beginner Exercises repository! 🎉 This collection is
 
 ## Exercise File 📂
 
-- [beginner_exercises.js](/beginner_exercises.js)
-
 Description: This file contains a collection of JavaScript exercises for beginners, covering topics such as variables, data types, logical operators, and comparisons.
 
 ### How to View the Exercise File
 
-1. Click on the link to the [beginner_exercises.js](/beginner_exercises.js) file.
+1. Click on the link to the 📂 file.
 2. Once on the file page, click the "Download" button to get a local copy.
 3. Open the file using your preferred code editor to view and work on the exercises.
 
@@ -35,13 +33,11 @@ Feel free to explore the file and start practicing! Happy coding! 🚀
 
 ## Archivo de Ejercicios 📂
 
-- [beginner_exercises.js](/beginner_exercises.js)
-
 Descripción: Este archivo contiene una colección de ejercicios de JavaScript para principiantes, abordando temas como variables, tipos de datos, operadores lógicos y comparaciones.
 
 ### Cómo ver el Archivo de Ejercicios
 
-1. Haz clic en el enlace al archivo [beginner_exercises.js](/beginner_exercises.js).
+1. Haz clic en el enlace al archivo.
 2. Una vez en la página del archivo, haz clic en el botón "Descargar" para obtener una copia local.
 3. Abre el archivo con tu editor de código preferido para ver y trabajar en los ejercicios.
 
