@@ -1,6 +1,3 @@
-# js-fundamentals-practice
- Practice exercises for JavaScript fundamentals.
-
 # 🚀 JavaScript Beginner Exercises 🚀
 
 ## English 🇺🇸
@@ -12,7 +9,19 @@ Welcome to the JavaScript Beginner Exercises repository! 🎉 This collection is
 1. [Variables and Data Types](./exercises/variables_and_data_types.js)
 2. [Logical Operators and Comparisons](./exercises/logical_operators_and_comparisons.js)
 
-Feel free to use these exercises to boost your JavaScript skills! 💪
+## Exercise File 📂
+
+- [beginner_exercises.js](./exercises/beginner_exercises.js)
+
+Description: This file contains a collection of JavaScript exercises for beginners, covering topics such as variables, data types, logical operators, and comparisons.
+
+### How to View the Exercise File
+
+1. Click on the link to the [beginner_exercises.js](./exercises/beginner_exercises.js) file.
+2. Once on the file page, click the "Download" button to get a local copy.
+3. Open the file using your preferred code editor to view and work on the exercises.
+
+Feel free to explore the file and start practicing! Happy coding! 🚀
 
 ## Español 🇪🇸
 
@@ -23,20 +32,17 @@ Feel free to use these exercises to boost your JavaScript skills! 💪
 1. [Variables y Tipos de Datos](./exercises/variables_and_data_types.js)
 2. [Operadores Lógicos y de Comparación](./exercises/logical_operators_and_comparisons.js)
 
----
 
-## Exercise Files 📂
+## Archivo de Ejercicios 📂
 
-### 1. Variables and Data Types
+- [beginner_exercises.js](./exercises/beginner_exercises.js)
 
-- [variables_and_data_types.js](./exercises/variables_and_data_types.js)
+Descripción: Este archivo contiene una colección de ejercicios de JavaScript para principiantes, abordando temas como variables, tipos de datos, operadores lógicos y comparaciones.
 
-Description: This file contains exercises related to variables and data types in JavaScript.
+### Cómo ver el Archivo de Ejercicios
 
-### 2. Logical Operators and Comparisons
+1. Haz clic en el enlace al archivo [beginner_exercises.js](./exercises/beginner_exercises.js).
+2. Una vez en la página del archivo, haz clic en el botón "Descargar" para obtener una copia local.
+3. Abre el archivo con tu editor de código preferido para ver y trabajar en los ejercicios.
 
-- [logical_operators_and_comparisons.js](./exercises/logical_operators_and_comparisons.js)
-
-Description: This file contains exercises related to logical operators and comparisons in JavaScript.
-
-Feel free to explore each file and start practicing! Happy coding! 🚀
+¡Siéntete libre de explorar el archivo y comenzar a practicar! ¡Feliz codificación! 🚀
