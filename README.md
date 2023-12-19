@@ -22,6 +22,7 @@ Description: This file contains a collection of JavaScript exercises for beginne
 
 Feel free to explore the file and start practicing! Happy coding! 🚀
 
+[![Javascript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=%23F7DF1E)]()
 ## Español 🇪🇸
 
 ¡Bienvenido al repositorio de Ejercicios para Principiantes en JavaScript! 🎉 Esta colección está diseñada para ayudar a principiantes a practicar y dominar conceptos fundamentales de JavaScript. Los ejercicios abarcan temas como variables, tipos de datos, operadores lógicos y comparaciones. Cada ejercicio incluye una breve descripción y soluciones de ejemplo.
