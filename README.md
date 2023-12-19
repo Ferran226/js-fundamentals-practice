@@ -1,3 +1,4 @@
+[![Javascript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=%23F7DF1E)]()
 # 🚀 JavaScript Beginner Exercises 🚀
 
 ## English 🇺🇸
