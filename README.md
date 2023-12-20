@@ -29,8 +29,9 @@ Feel free to explore the file and start practicing! Happy coding! 🚀
 
 ### Tabla de Contenidos 📚
 
-1. [Variables y Tipos de Datos](/variables_and_data_types.js)
-2. [Operadores Lógicos y de Comparación](/logical_operators_and_comparisons.js)
+1. [Variables y Tipos de Datos](/Ejercicios_en_español/variables_and_data_types.js)
+2. [Operadores Lógicos y de Comparación](/Ejercicios_en_español/logical_operators_and_comparisons.js)
+3. [Estructura de control de condicionales](/Ejercicios_en_español/conditionalStructures.js)
 
 
 ## Archivo de Ejercicios 📂
