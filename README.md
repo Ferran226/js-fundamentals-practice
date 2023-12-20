@@ -9,6 +9,7 @@ Welcome to the JavaScript Beginner Exercises repository! 🎉 This collection is
 
 1. [Variables and Data Types](Exercises_in_English/ENG_variables_and_data_types.js)
 2. [Logical Operators and Comparisons](Exercises_in_English/ENG_logical_operators_and_comparisons.js)
+3. [Condition Control Structure](Exercises_in_English/ENG_conditionalStructures.js)
 
 ## Exercise File 📂
 
