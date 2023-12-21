@@ -35,11 +35,10 @@ Feel free to explore the file and start practicing! Happy coding! 🚀
 
 ¡Bienvenido al repositorio de Ejercicios para Principiantes en JavaScript! 🎉 Esta colección está diseñada para ayudar a principiantes a practicar y dominar conceptos fundamentales de JavaScript. Los ejercicios abarcan temas como variables, tipos de datos, operadores lógicos y comparaciones. Cada ejercicio incluye una breve descripción y soluciones de ejemplo.
 
-### Tabla de Contenidos 📚
 
 ### Tabla de Contenidos 📚
 
-| Ejercicio                                  | Ejercicio Resuelto                                        |
+| Ejercicio                                  | Ejercicio Resuelto                                       |
 |--------------------------------------------|----------------------------------------------------------|
 | [Variables y Tipos de Datos][ej1]          | [Variables y Tipos de Datos Resuelto][sol1]              |
 | [Operadores Lógicos y de Comparación][ej2] | [Operadores Lógicos y de Comparación Resuelto][sol2]     |
@@ -57,7 +56,7 @@ Feel free to explore the file and start practicing! Happy coding! 🚀
 
 
 
-## Archivo de Ejercicios 📂
+## Archivo de Ejercicios Resuelto 📂
 
 Descripción: Este archivo contiene una colección de ejercicios de JavaScript para principiantes, abordando temas como variables, tipos de datos, operadores lógicos y comparaciones.
 
