@@ -16,13 +16,13 @@ Welcome to the JavaScript Beginner Exercises repository! 🎉 This collection is
 | [Conditionals][ex3]                        | [Conditionals Solved][sol3]                                |
 | [Loops][ex4]                               | [Loops Solved][sol4]                                       |
 
-[ej1]: Exercises_in_English/Quetions_Variables_and_Data_Types.md
+[ex1]: Exercises_in_English/Quetions_Variables_and_Data_Types.md
 [sol1]: Exercises_in_English/ENG_variables_and_data_types.js
-[ej2]: Exercises_in_English/Preguntas_operadores_logicos_y_comparacion.md
+[ex2]: Exercises_in_English/Preguntas_operadores_logicos_y_comparacion.md
 [sol2]: Exercises_in_English/ENG_logical_operators_and_comparisons.js
-[ej3]: Exercises_in_English/Preguntas_condicionales.md
+[ex3]: Exercises_in_English/Preguntas_condicionales.md
 [sol3]: Exercises_in_English/ENG_conditionalStructures.js
-[ej4]: Exercises_in_English/Preguntas_bucles.md
+[ex4]: Exercises_in_English/Preguntas_bucles.md
 [sol4]: Exercises_in_English/ENG_bucles_control.js
 
 
