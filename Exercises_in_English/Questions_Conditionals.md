@@ -51,22 +51,22 @@ Congratulations! You have won!
 For the following exercises, use the switch statement where necessary.
 
 **9 🗓 Months of the Year**
--Create a program that asks the user for a number and displays a message with the corresponding month name.
+- Create a program that asks the user for a number and displays a message with the corresponding month name.
 
 **10 ❄️ Seasons of the Year II**
--Create a program that asks for a season of the year and displays a message with the start and end date.
+- Create a program that asks for a season of the year and displays a message with the start and end date.
 
 **11🧮 Calculator**
--Create a program that allows choosing between the operations: ADDITION, SUBTRACTION, DIVISION, and MULTIPLICATION, and after choosing, enter two numbers and perform the chosen operation with them.
+- Create a program that allows choosing between the operations: ADDITION, SUBTRACTION, DIVISION, and MULTIPLICATION, and after choosing, enter two numbers and perform the chosen operation with them.
 
 
 **12📺 Television**
--Make a program that starts by asking if you want to turn on the TV. If you choose not to, the program should end. If you choose yes, it should display a message with the current channel and volume level of a TV, and should allow the following operations:
--CHANGE CHANNEL: allows entering a channel (0 to 99)
--NEXT CHANNEL: goes up one channel
--PREVIOUS CHANNEL: goes down one channel
--INCREASE VOLUME: increases the volume by 5
--DECREASE VOLUME: decreases the volume by 5
--MUTE: sets the volume to 0
+- Make a program that starts by asking if you want to turn on the TV. If you choose not to, the program should end. If you choose yes, it should display a message with the current channel and volume level of a TV, and should allow the following operations:
+- CHANGE CHANNEL: allows entering a channel (0 to 99)
+- NEXT CHANNEL: goes up one channel
+- PREVIOUS CHANNEL: goes down one channel
+- INCREASE VOLUME: increases the volume by 5
+- DECREASE VOLUME: decreases the volume by 5
+- MUTE: sets the volume to 0
 
--Once the option is chosen and the value is entered if necessary, it should display a message with the current channel and volume level.
+- Once the option is chosen and the value is entered if necessary, it should display a message with the current channel and volume level.
