@@ -20,7 +20,7 @@ Welcome to the JavaScript Beginner Exercises repository! 🎉 This collection is
 [sol1]: Exercises_in_English/ENG_variables_and_data_types.js
 [ex2]: Exercises_in_English/Questions_Logical_and_Comparison_Operators.md
 [sol2]: Exercises_in_English/ENG_logical_operators_and_comparisons.js
-[ex3]: Exercises_in_English/Preguntas_condicionales.md
+[ex3]: Exercises_in_English/Questions_Conditionals.md
 [sol3]: Exercises_in_English/ENG_conditionalStructures.js
 [ex4]: Exercises_in_English/Preguntas_bucles.md
 [sol4]: Exercises_in_English/ENG_bucles_control.js
