@@ -9,6 +9,23 @@ Welcome to the JavaScript Beginner Exercises repository! 🎉 This collection is
 
 ### Table of Contents 📚
 
+|                 Exercises                  |                   Solved Exercises                         |
+|--------------------------------------------|------------------------------------------------------------|
+| [Variables and Data Types][ex1]            | [Variables and Data Types Solved][sol1]                    |
+| [Logical and Comparison Operators][ex2]    | [Logical and Comparison Operators Solved][sol2]            |
+| [Conditionals][ex3]                        | [Conditionals Solved][sol3]                                |
+| [Loops][ex4]                               | [Loops Solved][sol4]                                       |
+
+[ej1]: Exercises_in_English/Preguntas_variables_y_tipos_de_datos.md
+[sol1]: Exercises_in_English/ENG_variables_and_data_types.js
+[ej2]: Exercises_in_English/Preguntas_operadores_logicos_y_comparacion.md
+[sol2]: Exercises_in_English/ENG_logical_operators_and_comparisons.js
+[ej3]: Exercises_in_English/Preguntas_condicionales.md
+[sol3]: Exercises_in_English/ENG_conditionalStructures.js
+[ej4]: Exercises_in_English/Preguntas_bucles.md
+[sol4]: Exercises_in_English/ENG_bucles_control.js
+
+
 1. [Variables and Data Types](Exercises_in_English/ENG_variables_and_data_types.js)
 2. [Logical Operators and Comparisons](Exercises_in_English/ENG_logical_operators_and_comparisons.js)
 3. [Condition Control Structure](Exercises_in_English/ENG_conditionalStructures.js)
@@ -38,7 +55,7 @@ Feel free to explore the file and start practicing! Happy coding! 🚀
 
 ### Tabla de Contenidos 📚
 
-|                 Ejercicio                    |                    Ejercicio Resuelto                        |
+|                 Ejercicios                   |                    Ejercicios Resueltos                      |
 |----------------------------------------------|--------------------------------------------------------------|
 | [Variables y Tipos de Datos][ej1]            |   [Variables y Tipos de Datos Resuelto][sol1]                |
 | [Operadores Lógicos y de Comparación][ej2]   |   [Operadores Lógicos y de Comparación Resuelto][sol2]       |
