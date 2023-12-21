@@ -37,13 +37,24 @@ Feel free to explore the file and start practicing! Happy coding! 🚀
 
 ### Tabla de Contenidos 📚
 
-| Ejercicios | Ejercicios resueltos |
-|------------|----------------------|
+### Tabla de Contenidos 📚
 
-| [Variables y Tipos de Datos] | [Variables y Tipos de Datos](Ejercicios_en_Espanol/variables_and_data_types.js) |
-| [Operadores Lógicos y de Comparación] | [Operadores Lógicos y de Comparación](Ejercicios_en_Espanol/logical_operators_and_comparisons.js) |
-| [Estructura de control de condicionales] | [Estructura de control de condicionales](Ejercicios_en_Espanol/conditionalStructures.js)
-| [Estructura de control de bucles] | [Estructura de control de bucles](Ejercicios_en_Espanol/bucles_control.js) |
+| Ejercicio                                  | Ejercicio Resuelto                                        |
+|--------------------------------------------|----------------------------------------------------------|
+| [Variables y Tipos de Datos][ej1]          | [Variables y Tipos de Datos Resuelto][sol1]              |
+| [Operadores Lógicos y de Comparación][ej2] | [Operadores Lógicos y de Comparación Resuelto][sol2]     |
+| [Condicionales][ej3]                       | [Condicionales Resuelto][sol3]                           |
+| [Bucles][ej4]                              | [Bucles Resuelto][sol4]                                  |
+
+[ej1]: Ejercicios_en_Espanol/variables_and_data_types.js
+[sol1]: Soluciones_en_Espanol/variables_and_data_types_solution.js
+[ej2]: Ejercicios_en_Espanol/logical_operators_and_comparisons.js
+[sol2]: Soluciones_en_Espanol/logical_operators_and_comparisons_solution.js
+[ej3]: Ejercicios_en_Espanol/conditionalStructures.js
+[sol3]: Soluciones_en_Espanol/conditionalStructures_solution.js
+[ej4]: Ejercicios_en_Espanol/bucles_control.js
+[sol4]: Soluciones_en_Espanol/bucles_control_solution.js
+
 
 
 ## Archivo de Ejercicios 📂
