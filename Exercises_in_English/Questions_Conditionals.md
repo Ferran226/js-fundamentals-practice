@@ -34,7 +34,7 @@
 **7 ✊🤚✌️ Rock, Paper, Scissors**
 - Create a program that allows entering rock, paper, or scissors for the player, generates the computer's move randomly, and displays a message indicating who won, with the respective plays.
 
-**8 🎨 Simon Says
+**8 🎨 Simon Says**
 - Create a program that displays a sequence of 5 color names in random order. There are 4 possible colors: red, green, blue, and yellow. Then, ask to enter 5 colors one by one, and display at the end if the sequence was correct.
 - // Example
 - Simon says: red, red, blue, green, yellow.
@@ -50,17 +50,17 @@ Congratulations! You have won!
 ## Conditional`switch`
 For the following exercises, use the switch statement where necessary.
 
-**9 🗓 Months of the Year
+**9 🗓 Months of the Year**
 -Create a program that asks the user for a number and displays a message with the corresponding month name.
 
-**10 ❄️ Seasons of the Year II
+**10 ❄️ Seasons of the Year II**
 -Create a program that asks for a season of the year and displays a message with the start and end date.
 
-**11🧮 Calculator
+**11🧮 Calculator**
 -Create a program that allows choosing between the operations: ADDITION, SUBTRACTION, DIVISION, and MULTIPLICATION, and after choosing, enter two numbers and perform the chosen operation with them.
 
 
-**12📺 Television
+**12📺 Television**
 -Make a program that starts by asking if you want to turn on the TV. If you choose not to, the program should end. If you choose yes, it should display a message with the current channel and volume level of a TV, and should allow the following operations:
 -CHANGE CHANNEL: allows entering a channel (0 to 99)
 -NEXT CHANNEL: goes up one channel
