@@ -40,10 +40,10 @@ Feel free to explore the file and start practicing! Happy coding! 🚀
 | Ejercicios | Ejercicios resueltos |
 |------------|----------------------|
 
-| [Variables y Tipos de Datos] | 1. [Variables y Tipos de Datos](Ejercicios_en_Espanol/variables_and_data_types.js) |
-| [Operadores Lógicos y de Comparación] | 2. [Operadores Lógicos y de Comparación](Ejercicios_en_Espanol/logical_operators_and_comparisons.js) |
-| [Estructura de control de condicionales] | 3. [Estructura de control de condicionales](Ejercicios_en_Espanol/conditionalStructures.js)
-| [Estructura de control de bucles] | 4. [Estructura de control de bucles](Ejercicios_en_Espanol/bucles_control.js) |
+| [Variables y Tipos de Datos] | [Variables y Tipos de Datos](Ejercicios_en_Espanol/variables_and_data_types.js) |
+| [Operadores Lógicos y de Comparación] | [Operadores Lógicos y de Comparación](Ejercicios_en_Espanol/logical_operators_and_comparisons.js) |
+| [Estructura de control de condicionales] | [Estructura de control de condicionales](Ejercicios_en_Espanol/conditionalStructures.js)
+| [Estructura de control de bucles] | [Estructura de control de bucles](Ejercicios_en_Espanol/bucles_control.js) |
 
 
 ## Archivo de Ejercicios 📂
