@@ -16,7 +16,7 @@ Welcome to the JavaScript Beginner Exercises repository! 🎉 This collection is
 | [Conditionals][ex3]                        | [Conditionals Solved][sol3]                                |
 | [Loops][ex4]                               | [Loops Solved][sol4]                                       |
 
-[ej1]: Exercises_in_English/Preguntas_variables_y_tipos_de_datos.md
+[ej1]: Exercises_in_English/Quetions_Variables_and_Data_Types.md
 [sol1]: Exercises_in_English/ENG_variables_and_data_types.js
 [ej2]: Exercises_in_English/Preguntas_operadores_logicos_y_comparacion.md
 [sol2]: Exercises_in_English/ENG_logical_operators_and_comparisons.js
@@ -25,11 +25,6 @@ Welcome to the JavaScript Beginner Exercises repository! 🎉 This collection is
 [ej4]: Exercises_in_English/Preguntas_bucles.md
 [sol4]: Exercises_in_English/ENG_bucles_control.js
 
-
-1. [Variables and Data Types](Exercises_in_English/ENG_variables_and_data_types.js)
-2. [Logical Operators and Comparisons](Exercises_in_English/ENG_logical_operators_and_comparisons.js)
-3. [Condition Control Structure](Exercises_in_English/ENG_conditionalStructures.js)
-4. [Loop Control Structure](Exercises_in_English/ENG_bucles_control.js)
 
 ## Exercise File 📂
 
