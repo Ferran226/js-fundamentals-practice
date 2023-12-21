@@ -38,12 +38,12 @@ Feel free to explore the file and start practicing! Happy coding! 🚀
 
 ### Tabla de Contenidos 📚
 
-|              Ejercicio                     |                  Ejercicio Resuelto                        |
-|--------------------------------------------|------------------------------------------------------------|
-| [Variables y Tipos de Datos][ej1]          |   [Variables y Tipos de Datos Resuelto][sol1]              |
-| [Operadores Lógicos y de Comparación][ej2] |   [Operadores Lógicos y de Comparación Resuelto][sol2]     |
-| [Condicionales][ej3]                       |   [Condicionales Resuelto][sol3]                           |
-| [Bucles][ej4]                              |   [Bucles Resuelto][sol4]                                  |
+|                 Ejercicio                    |                    Ejercicio Resuelto                        |
+|----------------------------------------------|--------------------------------------------------------------|
+| [Variables y Tipos de Datos][ej1]            |   [Variables y Tipos de Datos Resuelto][sol1]                |
+| [Operadores Lógicos y de Comparación][ej2]   |   [Operadores Lógicos y de Comparación Resuelto][sol2]       |
+| [Condicionales][ej3]                         |   [Condicionales Resuelto][sol3]                             |
+| [Bucles][ej4]                                |   [Bucles Resuelto][sol4]                                    |
 
 [ej1]: Ejercicios_en_Espanol/Preguntas_variables_y_tipos_de_datos.md
 [sol1]: Ejercicios_en_Espanol/variables_and_data_types.js
