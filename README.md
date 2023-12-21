@@ -48,11 +48,11 @@ Feel free to explore the file and start practicing! Happy coding! 🚀
 [ej1]: Ejercicios_en_Espanol/Preguntas_variables_y_tipos_de_datos.md
 [sol1]: Ejercicios_en_Espanol/variables_and_data_types.js
 [ej2]: Ejercicios_en_Espanol/logical_operators_and_comparisons.js
-[sol2]: Ejercicios_en_Espanol/logical_operators_and_comparisons_solution.js
+[sol2]: Ejercicios_en_Espanol/logical_operators_and_comparisons.js
 [ej3]: Ejercicios_en_Espanol/conditionalStructures.js
-[sol3]: Ejercicios_en_Espanol/conditionalStructures_solution.js
+[sol3]: Ejercicios_en_Espanol/conditionalStructures.js
 [ej4]: Ejercicios_en_Espanol/bucles_control.js
-[sol4]: Ejercicios_en_Espanol/bucles_control_solution.js
+[sol4]: Ejercicios_en_Espanol/bucles_control.js
 
 
 
