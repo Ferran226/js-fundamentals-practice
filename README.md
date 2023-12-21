@@ -18,7 +18,7 @@ Welcome to the JavaScript Beginner Exercises repository! 🎉 This collection is
 
 [ex1]: Exercises_in_English/Quetions_Variables_and_Data_Types.md
 [sol1]: Exercises_in_English/ENG_variables_and_data_types.js
-[ex2]: Exercises_in_English/Preguntas_operadores_logicos_y_comparacion.md
+[ex2]: Exercises_in_English/Questions_Logical_and_Comparison_Operators.md
 [sol2]: Exercises_in_English/ENG_logical_operators_and_comparisons.js
 [ex3]: Exercises_in_English/Preguntas_condicionales.md
 [sol3]: Exercises_in_English/ENG_conditionalStructures.js
