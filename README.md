@@ -46,7 +46,7 @@ Feel free to explore the file and start practicing! Happy coding! 🚀
 | [Condicionales][ej3]                       | [Condicionales Resuelto][sol3]                           |
 | [Bucles][ej4]                              | [Bucles Resuelto][sol4]                                  |
 
-[ej1]: Ejercicios_en_Espanol/variables_and_data_types.js
+[ej1]: Ejercicios_en_Espanol/Preguntas_variables_y_tipos_de_datos.md
 [sol1]: Soluciones_en_Espanol/variables_and_data_types_solution.js
 [ej2]: Ejercicios_en_Espanol/logical_operators_and_comparisons.js
 [sol2]: Soluciones_en_Espanol/logical_operators_and_comparisons_solution.js
