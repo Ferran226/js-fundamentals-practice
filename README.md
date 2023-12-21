@@ -22,7 +22,7 @@ Welcome to the JavaScript Beginner Exercises repository! 🎉 This collection is
 [sol2]: Exercises_in_English/ENG_logical_operators_and_comparisons.js
 [ex3]: Exercises_in_English/Questions_Conditionals.md
 [sol3]: Exercises_in_English/ENG_conditionalStructures.js
-[ex4]: Exercises_in_English/Preguntas_bucles.md
+[ex4]: Exercises_in_English/Quiestions_Loops.md
 [sol4]: Exercises_in_English/ENG_bucles_control.js
 
 
