@@ -49,7 +49,7 @@ Feel free to explore the file and start practicing! Happy coding! 🚀
 [sol1]: Ejercicios_en_Espanol/variables_and_data_types.js
 [ej2]: Ejercicios_en_Espanol/Preguntas_operadores_logicos_y_comparacion.md
 [sol2]: Ejercicios_en_Espanol/logical_operators_and_comparisons.js
-[ej3]: Ejercicios_en_Espanol/conditionalStructures.js
+[ej3]: Ejercicios_en_Espanol/Preguntas_condicionales.md
 [sol3]: Ejercicios_en_Espanol/conditionalStructures.js
 [ej4]: Ejercicios_en_Espanol/bucles_control.js
 [sol4]: Ejercicios_en_Espanol/bucles_control.js
