@@ -52,19 +52,19 @@ Feel free to explore the file and start practicing! Happy coding! 🚀
 
 |                 Ejercicios                   |                    Ejercicios Resueltos                      |
 |----------------------------------------------|--------------------------------------------------------------|
-| [Variables y Tipos de Datos][ej1]            |   [Variables y Tipos de Datos Resuelto][sol1]                |
-| [Operadores Lógicos y de Comparación][ej2]   |   [Operadores Lógicos y de Comparación Resuelto][sol2]       |
-| [Condicionales][ej3]                         |   [Condicionales Resuelto][sol3]                             |
-| [Bucles][ej4]                                |   [Bucles Resuelto][sol4]                                    |
+| [Variables y Tipos de Datos][ej1]            |   [Variables y Tipos de Datos Resuelto][solu1]                |
+| [Operadores Lógicos y de Comparación][ej2]   |   [Operadores Lógicos y de Comparación Resuelto][solu2]       |
+| [Condicionales][ej3]                         |   [Condicionales Resuelto][solu3]                             |
+| [Bucles][ej4]                                |   [Bucles Resuelto][soul4]                                    |
 
 [ej1]: Ejercicios_en_Espanol/Preguntas_variables_y_tipos_de_datos.md
-[sol1]: Ejercicios_en_Espanol/variables_and_data_types.js
+[solu1]: Ejercicios_en_Espanol/variables_and_data_types.js
 [ej2]: Ejercicios_en_Espanol/Preguntas_operadores_logicos_y_comparacion.md
-[sol2]: Ejercicios_en_Espanol/logical_operators_and_comparisons.js
+[solu2]: Ejercicios_en_Espanol/logical_operators_and_comparisons.js
 [ej3]: Ejercicios_en_Espanol/Preguntas_condicionales.md
-[sol3]: Ejercicios_en_Espanol/conditionalStructures.js
+[solu3]: Ejercicios_en_Espanol/conditionalStructures.js
 [ej4]: Ejercicios_en_Espanol/Preguntas_bucles.md
-[sol4]: Ejercicios_en_Espanol/bucles_control.js
+[solu4]: Ejercicios_en_Espanol/bucles_control.js
 
 
 
