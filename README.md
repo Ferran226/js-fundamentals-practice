@@ -52,10 +52,10 @@ Feel free to explore the file and start practicing! Happy coding! 🚀
 
 |                 Ejercicios                   |                    Ejercicios Resueltos                      |
 |----------------------------------------------|--------------------------------------------------------------|
-| [Variables y Tipos de Datos][ej1]            |   [Variables y Tipos de Datos Resuelto][solu1]                |
-| [Operadores Lógicos y de Comparación][ej2]   |   [Operadores Lógicos y de Comparación Resuelto][solu2]       |
-| [Condicionales][ej3]                         |   [Condicionales Resuelto][solu3]                             |
-| [Bucles][ej4]                                |   [Bucles Resuelto][soul4]                                    |
+| [Variables y Tipos de Datos][ej1]            |   [Variables y Tipos de Datos Resuelto][solu1]               |
+| [Operadores Lógicos y de Comparación][ej2]   |   [Operadores Lógicos y de Comparación Resuelto][solu2]      |
+| [Condicionales][ej3]                         |   [Condicionales Resuelto][solu3]                            |
+| [Bucles][ej4]                                |   [Bucles Resuelto][solu4]                                   |
 
 [ej1]: Ejercicios_en_Espanol/Preguntas_variables_y_tipos_de_datos.md
 [solu1]: Ejercicios_en_Espanol/variables_and_data_types.js
