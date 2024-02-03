@@ -40,8 +40,18 @@ recientemente, si ha tenido o tiene hepatitis, si tiene anemia. Si responde a al
 de ellas afirmativamente, debe mostrar un mensaje que indique si puede o no donar sangre */
 
 let tatuajes = prompt("¿Se ha hecho tatuajes recientemente? (Ingrese 'SI' o 'NO')").toUpperCase();
+    while (tatuajes !== 'SI' && tatuajes !== 'NO'){
+        tatuajes = prompt("No ha introducido una respuesta valida ¿Se ha hecho tatuajes recientemente? (Ingrese 'SI' o 'NO')").toUpperCase();
+    }
+
 let hepatitis = prompt("¿Ha tenido o tiene hepatitis? (Ingrese 'SI' o 'NO')").toUpperCase();
+    while (hepatitis !== 'SI' && hepatitis !== 'NO'){
+        hepatitis = prompt("No ha introducido una respuesta valida ¿Ha tenido o tiene hepatitis? (Ingrese 'SI' o 'NO')").toUpperCase();
+    }
 let anemia = prompt("¿Tiene anemia? (Ingrese 'SI' o 'NO')").toUpperCase();
+    while (anemia !== 'SI' && anemia !== 'NO'){
+        anemia = prompt("No ha introducido una respuesta valida ¿Tiene anemia? (Ingrese 'SI' o 'NO')").toUpperCase();
+    }
 
 if (tatuajes === 'NO' && hepatitis === 'NO' && anemia === 'NO') {
     alert("Puede donar sangre. ¡Gracias por su donación!");
