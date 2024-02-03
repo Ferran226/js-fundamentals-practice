@@ -12,9 +12,9 @@ let numero2 = parseFloat(prompt("Ingrese el segundo número:"));
 let numero3 = parseFloat(prompt("Ingrese el tercer número:"));
 
 if (numero1 > 100 || numero2 > 100 || numero3 > 100) {
-    alert("¡Al menso uno de los números es mayor a 100!");
+    alert("¡Al menos uno de los números es mayor a 100!");
 } else {
-    alert("Ninguno de loa númeroa es mayor a 100.");
+    alert("Ninguno de los números es mayor a 100.");
 }
 
 //* 2 Número dentro de rango
